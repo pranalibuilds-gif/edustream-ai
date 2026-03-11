@@ -1,0 +1,15 @@
+#Streamlit for the web interface
+
+streamlit
+
+#Ollama library to communicate with the local Llama model
+
+ollama
+
+#To extract transcripts from YouTube videos
+
+youtube-transcript-api
+
+#Pydantic for data validation and structured AI output
+
+pydantic
